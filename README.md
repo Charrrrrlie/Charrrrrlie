@@ -1,6 +1,8 @@
 ## Glad to meet you here. I am Charles! &nbsp;
 
- ![](https://visitor-badge.glitch.me/badge?page_id=Charrrrrlie.Charrrrrlie&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=Charrrrrlie)
+[![Github](https://img.shields.io/github/followers/Charrrrrlie?label=Follow&style=social)](https://github.com/Charrrrrlie)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Charrrrrlie.Charrrrrlie&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=Charrrrrlie)
 
 **[update on 2021.11.11]**
 
