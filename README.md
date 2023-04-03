@@ -2,7 +2,7 @@
 
  ![](https://visitor-badge.glitch.me/badge?page_id=Charrrrrlie.Charrrrrlie&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=Charrrrrlie)
 
-**[update in 2021.11.11]**
+**[update on 2021.11.11]**
 
 🎓I'm currently a Ph.D. candidate who will study further at Fudan University and Shanghai AI Lab in a co-supervised project. 
 
@@ -14,16 +14,6 @@
 
 If you're interested, you can know me more in [my page](https://charrrrrlie.github.io/).
 
-
-<p align="center">
-  <img align='ceneter' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charrrrrlie&layout=compact&bg_color=DFE1E3"/>
- </p>
-
 <p align="center">
   <img align='center' height="170em" src="https://github-readme-stats.vercel.app/api?username=Charrrrrlie&hide=issues&show_icons=true &bg_color=DFE1E3"/>
 </p>
-
-
-
-
-
