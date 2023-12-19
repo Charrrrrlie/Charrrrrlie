@@ -11,7 +11,7 @@
 📚 **Human Pose and Motion** is my main field to explore.
 <br> ~~Previously: 3D Perception in Autonomous Driving~~
 
-🛰 Before that, I obtained my Bachelor's degree at [Wuhan University](https://www.whu.edu.cn/), supervised by [ZhenZhong Chen](iip.whu.edu.cn).
+🛰 Before that, I obtained my Bachelor's degree at [Wuhan University](https://www.whu.edu.cn/), supervised by [ZhenZhong Chen](https://zhenzhong-chen.github.io/).
 
 ✨I love to try something new, not limited in coding.
 
