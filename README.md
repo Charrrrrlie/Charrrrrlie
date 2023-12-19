@@ -4,18 +4,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Charrrrrlie.Charrrrrlie&style=flat-square&color=0088cc) ![](https://komarev.com/ghpvc/?username=Charrrrrlie)
 
-**[update on 2021.11.11]**
+**[update on 2023.12.19]**
 
-🎓I'm currently a Ph.D. candidate who will study further at Fudan University and Shanghai AI Lab in a co-supervised project. 
+🎓I am currently a Ph.D. candidate of [Fudan University](https://www.fudan.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/) in a co-supervised project, under the supervision of [Xiao Sun](https://jimmysuen.github.io/) and [Xiaoou Tang](https://mmlab.ie.cuhk.edu.hk/).
 
-📚 **Perceptron in Autonomous Driving** is my main field to explore.
+📚 **Human Pose and Motion** is my main field to explore.
+<br> ~~Previously: 3D Perception in Autonomous Driving~~
 
-🛰 During undergraduate years, I focus on (Remote Sensing) Images Compression and Restoration, in the Lab. of Intelligent Information Processing, Wuhan University, supervised by [ZhenZhong Chen](iip.whu.edu.cn). 
+🛰 Before that, I obtained my Bachelor's degree at [Wuhan University](https://www.whu.edu.cn/), supervised by [ZhenZhong Chen](iip.whu.edu.cn).
 
-✨I love to try something new or to explore new field, not limited in coding.
+✨I love to try something new, not limited in coding.
 
-If you're interested, you can know me more in [my page](https://charrrrrlie.github.io/).
-
-<p align="center">
-  <img align='center' height="170em" src="https://github-readme-stats.vercel.app/api?username=Charrrrrlie&hide=issues&show_icons=true &bg_color=DFE1E3"/>
-</p>
+If interested, you can know me more on [my page](https://charrrrrlie.github.io/).
