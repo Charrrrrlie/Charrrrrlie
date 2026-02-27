@@ -8,7 +8,7 @@
 
 🎓I am currently a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn/) and [Shanghai AI Laboratory](https://www.shlab.org.cn/) in a co-supervised project, under the supervision of [Xiao Sun](https://jimmysuen.github.io/), [Yu Qiao](https://mmlab.siat.ac.cn/yuqiao), and [Xiaoou Tang](https://mmlab.ie.cuhk.edu.hk/). During my Ph.D., I had the honor of working with [Zhihang Zhong](https://zzh-tech.github.io/) and [Xing Gao](https://william-gx.github.io/), who provided invaluable guidance and support.
 
-📚 **Human-Centered Scene Perception and Understanding** is my main field to explore, especially in **sports scenarios**.
+📚 **Human-Centric Scene Perception and Understanding** is my main field to explore, especially in **sports scenarios**.
 <br> ~~Previously: 3D Perception in Autonomous Driving~~
 
 🛰 Before that, I obtained my Bachelor's degree at [Wuhan University](https://www.whu.edu.cn/), supervised by [ZhenZhong Chen](https://zhenzhong-chen.github.io/).
