@@ -17,4 +17,6 @@
 
 ✨I love to try something new, not limited to coding.
 
+📮 charles.yyc019@gmail.com
+
 If interested, you can know me more on [my page](https://charrrrrlie.github.io/).
